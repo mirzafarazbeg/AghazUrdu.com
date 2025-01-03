@@ -1,0 +1,14 @@
+[
+  {
+    "origin": ["https://www.aghazurdu.com"],
+    "responseHeader": ["Content-Type"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  },
+  {
+    "origin": ["http://www.aghazurdu.com"],
+    "responseHeader": ["Content-Type"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]
