@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 3, 2015, 9:56:27 PM
+    Author     : Faraz Beg
+*/
+     /* Generated via www.cssmenubuilder.com */
+
+.rightmenu{margin:0; padding:0; width:150px; list-style:none;background:rgb(255,255,255);position: absolute;left: 1075px;top: 5px}
+.rightmenu li{padding:0; margin:0 0 1px 0; height:40px; display:block; }
+.rightmenu li a{text-align:right;height:40px; padding:0px 25px; font:16px Verdana, Arial, Helvetica, sans-serif; color:rgb(255,255,255); display:block; background:url('../../images/verMenuImages.png') 0px 0px no-repeat; text-decoration:none;}
+.rightmenu li a:hover{background:url('../../images/verMenuImages.png') 0px -40px no-repeat; color:rgb(255,255,255);}
+.rightmenu li a.active, .menu li a.active:hover{background:url('../../images/verMenuImages.png') 0px -80px no-repeat; color:rgb(255,255,255);}
+.rightmenu li a span{line-height:40px;}
+
